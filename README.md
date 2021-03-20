@@ -1,3 +1,20 @@
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+
+<h3 align="center">Hey there, I'm Sohel Islam Imran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+
+<p align="center">
+
+  <a href="https://twitter.com/sohelislamimran"><img alt="followers" title=" Twitter" src="https://img.shields.io/twitter/follow/sohelislamimran?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/SohelIslamImran"><img alt="followers" title=" Github" src="https://img.shields.io/github/followers/SohelIslamImran?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  
+   <p align="left"> <img src="https://komarev.com/ghpvc/?username=SohelIslamImran&label=Profile%20views&color=0e75b6&style=flat" alt="SohelIslamImran" /> </p>
+  
+  [![Facebook Follow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=1976d2&logo=facebook&logoColor=ffffff)](https://www.facebook.com/SohelIslamImran/) 
+
+</p>
+
+### 📖 About me
+
 ### Hi there 👋
 
 <!--
