@@ -13,6 +13,10 @@
 - 🌱 I’m currently learning **Python, JavaScript, React, Bootstrap, Material-UI, React-Bootstrap, Firebase etc.,**
 
 - 👨‍💻 All of my projects are available at [https://github.com/zobaerahmedzihad?tab=repositories](https://github.com/zobaerahmedzihad?tab=repositories)
+- 
+- Facebook Profile : https://www.facebook.com/zobaer.ahmed.zihad
+
+- Instagram Profile : https://www.instagram.com/zobaer_ahmed_zihad/
 
 - 📝 I regularly write articles on [Facebook.](Facebook.)
 
