@@ -3,15 +3,11 @@
 <h3 align="center">Hey there, I'm Zobaer Ahmed Zihad <img src="https://scontent.fdac1-1.fna.fbcdn.net/v/t1.0-1/p160x160/131964065_801575947062575_5765684074476442838_o.jpg?_nc_cat=103&ccb=1-3&_nc_sid=7206a8&_nc_ohc=Q2WSl0gNK7EAX-saS1k&_nc_ht=scontent.fdac1-1.fna&tp=6&oh=a38d8d022de578dff3173c15138122fa&oe=607A42AD" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 
-### 📖 About me
-
-### Hi there 👋
-
 <!--
 **zobaerahmedzihad/zobaerahmedzihad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
-<h1 align="center">Hi 👋, I'm Zobaer Ahmed Zihad.</h1>
+<h1 align="center">### Hi there 👋, I'm Zobaer Ahmed Zihad. </h1>
 
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
