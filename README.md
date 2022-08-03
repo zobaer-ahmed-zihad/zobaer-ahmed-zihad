@@ -4,4 +4,4 @@ I'm Zobaer Ahmed Zihad, a Full Stack Web Developer . I Spend most of time coding
 
 :coffee: &emsp;Contact with me!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zobaerhamedzihad) 
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zobaerahmedzihad) 
