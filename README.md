@@ -4,7 +4,10 @@ I'm Zobaer Ahmed Zihad, a Full Stack Web Developer . I Spend most of time coding
 
 :coffee: &emsp;Contact with me!
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zobaerahmedzihad) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zobaer-ahmed-zihad/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zobaer_ahmed_zihad/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zobaerahmedzihad02@gmail.com) [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)(https://dev.to/zobaerahmedzihad)]
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/zobaerahmedzihad)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/zobaerahmedzihad)
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zobaer-ahmed-zihad/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zobaer_ahmed_zihad/) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zobaerahmedzihad02@gmail.com) ![Dev.to blog]([link](https://dev.to/zobaerahmedzihad))
 
 :hearts: &emsp;I enjoy programming and learning new technologies <br/>
 :computer: &emsp;Most used line of code `console.log("Zobaer Ahmed Zihad")` <br/>
