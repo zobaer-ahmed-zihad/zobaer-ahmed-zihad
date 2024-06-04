@@ -1,6 +1,4 @@
 
-![#](https://i.ibb.co/jg89y5S/codding.png)
-
 <h1 align="center">Hi 👋, I'm Zobaer Ahmed Zihad</h1>
 <h3 align="center">Web Developer || Front-end Developer || Full stack Developer || mern stack Developer</h3></hr>
 
